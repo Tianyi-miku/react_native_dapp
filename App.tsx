@@ -13,7 +13,6 @@ import { W3mButton, createWeb3Modal, defaultWagmiConfig, useWeb3Modal } from '@w
 import { mainnet, polygon, arbitrum } from 'viem/chains'
 import { WagmiConfig } from 'wagmi';
 import { Pressable, Text } from 'react-native'
-import { Button } from '@rneui/themed';
 import { Web3Modal } from '@web3modal/wagmi-react-native'
 import { NavigationContainer } from '@react-navigation/native';
 
