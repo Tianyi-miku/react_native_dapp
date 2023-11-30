@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+dist
+*.local
+package-lock.json
+yarn.lock
+yarn-error.log
+.vscode
+.gradle
